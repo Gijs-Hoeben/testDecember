@@ -1,8 +1,8 @@
 package examenversiebeheer;
 
-publik claszs ErrorClass {
-	    public static void mainz(Strings[] args) {
-	        System.out.println("Hello world!")
+public class ErrorClass {
+	    public static void main(String[] args) {
+	        System.out.println("Hello world!");
 	    } 
 	}
 
